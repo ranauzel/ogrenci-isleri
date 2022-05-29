@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\ogrenci_isleri\bin\Debug\netcoreapp3.1\ogrenci_isleri.exe
+C:\Users\HP\source\repos\ogrenci_isleri\bin\Debug\netcoreapp3.1\ogrenci_isleri.deps.json
+C:\Users\HP\source\repos\ogrenci_isleri\bin\Debug\netcoreapp3.1\ogrenci_isleri.runtimeconfig.json
+C:\Users\HP\source\repos\ogrenci_isleri\bin\Debug\netcoreapp3.1\ogrenci_isleri.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ogrenci_isleri\bin\Debug\netcoreapp3.1\ogrenci_isleri.dll
+C:\Users\HP\source\repos\ogrenci_isleri\bin\Debug\netcoreapp3.1\ogrenci_isleri.pdb
+C:\Users\HP\source\repos\ogrenci_isleri\obj\Debug\netcoreapp3.1\ogrenci_isleri.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ogrenci_isleri\obj\Debug\netcoreapp3.1\ogrenci_isleri.Form1.resources
+C:\Users\HP\source\repos\ogrenci_isleri\obj\Debug\netcoreapp3.1\ogrenci_isleri.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ogrenci_isleri\obj\Debug\netcoreapp3.1\ogrenci_isleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ogrenci_isleri\obj\Debug\netcoreapp3.1\ogrenci_isleri.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ogrenci_isleri\obj\Debug\netcoreapp3.1\ogrenci_isleri.AssemblyInfo.cs
+C:\Users\HP\source\repos\ogrenci_isleri\obj\Debug\netcoreapp3.1\ogrenci_isleri.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ogrenci_isleri\obj\Debug\netcoreapp3.1\ogrenci_isleri.dll
+C:\Users\HP\source\repos\ogrenci_isleri\obj\Debug\netcoreapp3.1\ogrenci_isleri.pdb
+C:\Users\HP\source\repos\ogrenci_isleri\obj\Debug\netcoreapp3.1\ogrenci_isleri.genruntimeconfig.cache
